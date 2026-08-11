@@ -1,6 +1,6 @@
-# AWS AI Programmer Study Archive
+# AI Programmer Study Archive
 
-Personal study notes and original examples created while completing the AWS AI & ML Scholars Future AWS AI Programmer Nanodegree.
+Rin's personal study notes and original examples created while completing the AWS AI & ML Scholars Future AWS AI Programmer Nanodegree.
 
 ## 01 — Python Foundations
 
